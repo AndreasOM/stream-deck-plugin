@@ -8,7 +8,7 @@ description = "A quick wrapper to make it easier to develop stream deck plugins 
 readme = "README.md"
 homepage = "https://github.com/AndreasOM/stream-deck-plugin"
 repository = "https://github.com/AndreasOM/stream-deck-plugin"
-keywords = ["tools", "libraries", "stream deck"]
+keywords = ["tools", "libraries", "streamdeck"]
 categories = ["multimedia"]
 
 [dependencies]
