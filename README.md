@@ -17,4 +17,4 @@ A quick wrapper to make it easier to develop stream deck plugins in rust.
 
 
 Sorry, no documentation yet.
-Look at streamdeck-plugin-template to get started.
+Look at [streamdeck-plugin-template](https://github.com/AndreasOM/stream-deck-plugin-template) to get started.
